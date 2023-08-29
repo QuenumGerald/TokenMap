@@ -1,6 +1,6 @@
 # TokenMap
 
-This contract enables the listing and selling of NFT land tokens. It also integrates with Chainlink Oracles for additional features.
+This contract enables the listing and selling of NFT lands. It also integrates with Chainlink Oracles for additional features.
 
 # Features
 
